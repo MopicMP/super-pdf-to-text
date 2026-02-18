@@ -1,0 +1,5 @@
+[
+  "tests/test_super_pdf_to_text.py::TestText::test_basic",
+  "tests/test_super_pdf_to_text.py::TestText::test_empty",
+  "tests/test_super_pdf_to_text.py::TestText::test_type_error"
+]
